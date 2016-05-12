@@ -1,0 +1,23 @@
+{
+  "name": "gruntdemo",
+  "version": "1.0.0",
+  "description": "testgrunt",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laibao101/GruntDemo.git"
+  },
+  "author": "zhouhua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laibao101/GruntDemo/issues"
+  },
+  "homepage": "https://github.com/laibao101/GruntDemo#readme"
+}
